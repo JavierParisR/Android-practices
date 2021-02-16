@@ -1,0 +1,43 @@
+#Files for git to ignore
+
+# Gradle cache
+.gradle
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Java class files
+*.class
+
+# Android studio captures folder
+captures/
+
+# built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx
+
+# files for the dex VM
+*.dex
+
+# generated files
+bin/
+gen/
+out/
+
+# IDEA/Android Studio project files, because
+# the project can be imported from settings.gradle
+.idea/
+*.iml
+
+# Local IDEA workspace
+.idea/workspace.xml
+
+#Mac OS X files
+.DS_Store

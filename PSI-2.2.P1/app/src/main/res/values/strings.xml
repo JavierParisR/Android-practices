@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1Paris</string>
+    <string name="compartir">Compartir</string>
+    <string name="continuar">Continuar</string>
+    <string name="bot_n1">Botón1</string>
+    <string name="bot_n2">Botón2</string>
+    <string name="bot_n3">Botón3</string>
+    <string name="textview">TextView</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PSI-2.3.P1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_botonA">Botón A</string>
+    <string name="bt_botonB">Botón B</string>
+    <string name="bt_botonC">Botón C</string>
+</resources>
